@@ -1,0 +1,25 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.friend {
+  border: 5px solid black;
+  background-color: red;
+  border-radius: 20px;
+  width: 300px;
+  height: 200px;
+  /* margin: 20px 0 20px 100px; */
+}
+.podClass {
+  margin: 0 0 20px 100px;
+}
+.btN {
+  width: 100px;
+  height: 50px;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+}
